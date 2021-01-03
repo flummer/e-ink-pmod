@@ -13,6 +13,8 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+*-backups
+*.kicad_prl
 
 # Autorouter files (exported from Pcbnew)
 *.dsn
