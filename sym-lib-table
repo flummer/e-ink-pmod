@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name oshw2018badgeprototype-rescue)(type Legacy)(uri "/Users/tf/Documents/Misc Projects/ohs18badge/oshw2018badgeprototype-rescue.lib")(options "")(descr ""))
+  (lib (name pmod)(type Legacy)(uri /Users/tf/Documents/Libraries/kicad-pmod/pmod.lib)(options "")(descr ""))
+)

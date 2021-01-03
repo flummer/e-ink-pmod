@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Connectors)(type KiCad)(uri /Users/tf/Documents/Libraries/KiCad_flummer.net/Connectors.pretty)(options "")(descr ""))
+  (lib (name pmod-conn_6x2)(type KiCad)(uri /Users/tf/Documents/Libraries/kicad-pmod/pmod-conn_6x2.pretty)(options "")(descr ""))
+)
